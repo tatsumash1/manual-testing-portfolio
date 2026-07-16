@@ -12,8 +12,8 @@
 - страница карточки товара
 - страница корзины
 - страница оформления заказа
-- страница подтверждения заказа
 - страница подтверждения оплаты
+- страница успешно оформленного заказа
 
 ## Виды тестирования
 
@@ -32,7 +32,7 @@
 ## Тестовые данные (login / password)
 
 - `standard_user / secret_sauce`
-- `locked_out_userr / secret_sauce`
+- `locked_out_user / secret_sauce`
 - `problem_user / secret_sauce`
 - `performance_glitch_user / secret_sauce`
 - `error_user / secret_sauce`
